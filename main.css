@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+}
+.css-classes {
+    background-color: whitesmoke;
+}
+.css-classes h3{
+    color: black
+}
+.css-classes p{
+    font-size: 14px;
+    color: darkslategray;
+}
+.padding-class{
+    padding: 100px 100px 100px 400px;
+}
+.wrapper{
+    margin: 5px
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li{
+    font-family:fantasy
+}
